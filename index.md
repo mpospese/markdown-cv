@@ -72,8 +72,8 @@ Built a line graphing engine that supported large data sets with realtime update
 
 ## Skills
 Swift, Objective-C, C#, C++, SQL, XML, JSON  
-Core Animation, Core Graphics, Core Data, UIKit  
+Core Animation, Core Graphics, Core Data, UIKit. SwiftUI  
 
 <!-- ### Footer
 
-Last updated: February 2019 -->
+Last updated: October 2020 -->
