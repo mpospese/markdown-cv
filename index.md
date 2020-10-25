@@ -13,6 +13,9 @@ Specialties: custom user interfaces, animations, full-stack engineering
 
 ## Experience
 
+**Lead iOS Engineer, BlockFi (2020 – Present)**  
+Rewriting BlockFi's hybrid React Native app as a native app.
+
 **Principal, Crazy Milk Software (2009 – Present)**  
 Bespoke software consulting services. Consultant tasked with delivering innovative solutions to development teams faced with complex challenges in graphing and 3D animations.
 
@@ -29,6 +32,13 @@ Lead developer on various iPad, iPhone, and Windows applications with extensive 
 Designed and developed educational Windows software (C++) to accompany textbooks used in college-level logic courses.
 
 ## Apps (Recent)
+
+**Lead Engineer – BlockFi** (finance app)  
+Rewriting native mobile app from the ground up in Swift: custom network stack, data model, and UI.
+
+**Architect / Lead Developer – PTS** (logistics app)  
+Designed and built network stack, authentication layer, data model combined with a Core Data stack, and UI. PTS is a pair of apps (for customers and drivers) that share a common framework of core code.
+
 **Architect / Lead Developer – SiguePay** (finance app)  
 Designed and built network stack, authentication layer, data model combined with a Core Data stack, and UI. SiguePay was a complete redesign and rewrite of the client's HTML 5 application. With only two developers, this new product written from the ground up entirely in Swift, shipped in 4 months with minimal dependencies.
 
