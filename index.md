@@ -7,14 +7,17 @@ Software Developer
 
 ## Profile
 
-Senior-level software developer with 20 years industry experience working in Swift, Objective-C, C#, C++, and now Solidity. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in mathematics, logic, and science. Proven record delivering applications with great user experience and a high degree of polish.
+Senior-level software developer with over 20 years industry experience working in Swift, Objective-C, C#, C++, and now Solidity. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in mathematics, logic, and science. Proven record delivering applications with great user experience and a high degree of polish.
 
-Specialties: custom user interfaces, animations, full-stack engineering
+Specialties: design systems, accessibility, custom user interfaces, animations, full-stack engineering
 
 ## Experience
 
-**Lead iOS Engineer, BlockFi (2020 – Present)**  
-Rewriting BlockFi's hybrid React Native app as a native app.
+**Principal iOS Engineer, Y Media Labs (2021 – Present)**  
+Leading effort to create IP through reusable frameworks, engineering components for design systems, and cultivating a culture of best practices, compassion, and accountability.
+
+**Lead iOS Engineer, BlockFi (2020 – 2021)**  
+Lead effort to rewrite BlockFi's hybrid React Native app as a native app with a focus on scalability, security, and accessibility. Helped assemble a world-class fully-remote global mobile engineering team.
 
 **Principal, Crazy Milk Software (2009 – Present)**  
 Bespoke software consulting services. Consultant tasked with delivering innovative solutions to development teams faced with complex challenges in graphing and 3D animations.
@@ -31,7 +34,7 @@ Lead developer on various iPad, iPhone, and Windows applications with extensive 
 **Freelance Programmer (1998 – 2002)**  
 Designed and developed educational Windows software (C++) to accompany textbooks used in college-level logic courses.
 
-## Apps (Recent)
+## Apps
 
 **Lead Engineer – BlockFi** (finance app)  
 Rewriting native mobile app from the ground up in Swift: custom network stack, data model, and UI.
@@ -76,4 +79,4 @@ Core Animation, Core Graphics, Core Data, UIKit. SwiftUI
 
 <!-- ### Footer
 
-Last updated: October 2020 -->
+Last updated: April 2022 -->
