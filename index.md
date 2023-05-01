@@ -40,7 +40,7 @@ Designed and developed educational Windows software (C++) to accompany textbooks
 ## Apps
 
 **Lead Engineer – BlockFi** (finance app)  
-Rewriting native mobile app from the ground up in Swift: custom network stack, data model, and UI.
+Rewrote native mobile app from the ground up in Swift: custom network stack, data model, and UI.
 
 **Architect / Lead Developer – PTS** (logistics app)  
 Designed and built network stack, authentication layer, data model combined with a Core Data stack, and UI. PTS is a pair of apps (for customers and drivers) that share a common framework of core code.
