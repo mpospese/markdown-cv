@@ -13,8 +13,11 @@ Specialties: design systems, accessibility, custom user interfaces, animations, 
 
 ## Experience
 
-**Principal iOS Engineer, Y Media Labs (2021 – Present)**  
-Leading effort to create IP through reusable frameworks, engineering components for design systems, and cultivating a culture of best practices, compassion, and accountability.
+**iOS Chapter Lead, Y Media Labs (2022 – 2023)**  
+Elevated iOS Engineering across teams through education, thought leadership, mentorship, and establishing and promoting best practices. Responsible for the creation and release of over a dozen open source Swift packages that accelerate development, reduce bugs, and inject accessibility features across projects.
+
+**Principal iOS Engineer, Y Media Labs (2021 – 2022)**  
+Lead effort to create IP through reusable frameworks, engineered components for design systems, and cultivated a culture of best practices, compassion, and accountability. 
 
 **Lead iOS Engineer, BlockFi (2020 – 2021)**  
 Lead effort to rewrite BlockFi's hybrid React Native app as a native app with a focus on scalability, security, and accessibility. Helped assemble a world-class fully-remote global mobile engineering team.
