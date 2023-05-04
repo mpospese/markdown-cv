@@ -39,6 +39,21 @@ Designed and developed educational Windows software (C++) to accompany textbooks
 
 ## Apps
 
+**Lead Engineer – YML Open Source** (open source repos)
+Lead the creation of fifteen open source Swift packages to accelerate project development. Packages include user interface, text rendering, network stack, Core Data wrapper, analytics wrapper, and numerous small UI components. Every package is self-documenting, highly unit tested, strictly linted, and includes a CI/CD process. The UI packages all support numerous accessibility features including Voice Over, Dynamic Type, Bold Text, Dark Mode, and Reduced Motion.
+
+**Individual Contributor – Caramel** (car sales app)
+Established app architecture and contributed network stack, analytics stack, user interface accelerators, and a text rendering engine with built-in support for Dynamic Type and Accessibility Bold Text.
+
+**Individual Contributor – Mayo Clinic Design System** (design system)
+Contributed a text rendering engine with built-in support for Dynamic Type and Accessibility Bold Text to a new design system that helps enable more patients to access healthcare at the number 1-ranked hospital in the United States.
+
+**Individual Contributor – Chopt** (food service app)
+Contributed network stack, user interface accelerators, and a text rendering engine with built-in support for Dynamic Type and Accessibility Bold Text.
+
+**Individual Contributor – Albertons** (grocery app)
+Contributed a text rendering engine with built-in support for Dynamic Type and Accessibility Bold Text that helps enable tens of millions of users to order their groceries under a dozen different grocery store banners (the second largest supermarket chain in the United States).
+
 **Lead Engineer – BlockFi** (finance app)  
 Rewrote native mobile app from the ground up in Swift: custom network stack, data model, and UI.
 
