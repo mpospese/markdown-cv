@@ -7,7 +7,7 @@ Software Developer
 
 ## Profile
 
-Senior-level software developer with over 20 years industry experience working in Swift, Objective-C, C#, C++, and now Solidity. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in mathematics, logic, and science. Proven record delivering applications with great user experience and a high degree of polish.
+Principal-level software developer with over 20 years industry experience working in Swift, Objective-C, C#, C++, and Solidity. Creative, independent, motivated team worker with experience leading and mentoring global remote teams across all time zones. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in mathematics, logic, and science. Proven record delivering robust and accessible applications with great user experience and a high degree of polish.
 
 Specialties: design systems, accessibility, custom user interfaces, animations, full-stack engineering
 
