@@ -95,6 +95,11 @@ Built a line graphing engine that supported large data sets with realtime update
 Swift, Objective-C, C#, C++, SQL, XML, JSON  
 SwiftUI, UIKit, Core Data, Core Animation, Core Graphics
 
+## Languages
+**English** – native  
+**Portuguese** – conversationally fluent  
+**German** – A2  
+
 <!-- ### Footer
 
 Last updated: May 2023 -->
