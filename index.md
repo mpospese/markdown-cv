@@ -64,7 +64,7 @@ Designed and built network stack, authentication layer, data model combined with
 Designed and built network stack, authentication layer, data model combined with a Core Data stack, and UI. SiguePay was a complete redesign and rewrite of the client's HTML 5 application. With only two developers, this new product written from the ground up entirely in Swift, shipped in 4 months with minimal dependencies.
 
 **Lead Developer – Charla** (messaging app)  
-Assumed lead engineer role. Rewrote network stack using best practices and minimal dependenceies. Added various UI features to chat messaging component.
+Assumed lead engineer role. Rewrote network stack using best practices and minimal dependencies. Added various UI features to chat messaging component.
 
 **Architect / Co-Lead Developer – UniFi Protect** (IoT security system app)  
 Co-lead iOS Engineer responsible for a custom network stack leveraging WebRTC, authentication, data modeling combined with a Core Data stack, audio/video decoding, and low-latency streaming of live and recorded video. Created a delightful, responsive video timeline UI for quickly scrolling forward and backward through recorded video.
