@@ -9,7 +9,7 @@ Software Developer
 
 Principal-level software developer with over 20 years industry experience working in Swift, Objective-C, C#, C++, and Solidity. Creative, independent, motivated team worker with experience leading and mentoring global remote teams across all time zones. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in mathematics, logic, and science. Proven record delivering robust and accessible applications with great user experience and a high degree of polish.  
 
-**Specialties:** design systems, accessibility, custom user interfaces, animations, full-stack engineering
+**Specialties:** design systems, accessibility, custom user interfaces, animations, full-stack engineering  
 
 ## Experience
 
@@ -93,13 +93,13 @@ Built a line graphing engine that supported large data sets with realtime update
 
 ## Skills
 Swift, Objective-C, C#, C++, SQL, XML, JSON  
-SwiftUI, UIKit, Core Data, Core Animation, Core Graphics
+SwiftUI, UIKit, Core Data, Core Animation, Core Graphics  
 
 ## Languages
 **English** – native  
 **Portuguese** – conversationally fluent  
-**German** – A2  
+**German** – B1  
 
 <!-- ### Footer
 
-Last updated: May 2023 -->
+Last updated: June 2023 -->
