@@ -13,6 +13,9 @@ Principal-level software developer with over 20 years industry experience workin
 
 ## Experience
 
+**Senior iOS Engineer, PassiveLogic (2023 – Present)**
+Develop a building management application that generates accurate 3D floor plans through lidar technology. Prototype new ideas to help with feature definition. Collaborate with design and product teams to create a world-class mobile experience.
+
 **iOS Chapter Lead, Y Media Labs (2022 – 2023)**  
 Elevated iOS Engineering across teams through education, thought leadership, mentorship, and establishing and promoting best practices. Responsible for the creation and release of over a dozen open source Swift packages that accelerate development, reduce bugs, and inject accessibility features across projects.  
 
@@ -102,4 +105,4 @@ SwiftUI, UIKit, Core Data, Core Animation, Core Graphics
 
 <!-- ### Footer
 
-Last updated: June 2023 -->
+Last updated: November 2023 -->
